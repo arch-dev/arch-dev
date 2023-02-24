@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sebastiano, a 22y student keen on Android development and engineering topics
+I'm Sebastiano, a 23y student keen on Android development and engineering topics
 
 - 🔭 I’m currently working on various Android projects
 - 🚀 I’m studying Aerospace Engineering at University of Padua
