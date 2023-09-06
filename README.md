@@ -2,7 +2,7 @@
 
 I'm Sebastiano, a 23y student keen on Android development and engineering topics
 
-- 🔭 I’m currently working on various Android projects
+- 🔭 Learning Jetpack Compose.
 - 🚀 I’m studying Aerospace Engineering at University of Padua
 - ✈️ I'm currently developing a CFD engine for Android for [@ArchSoftware](https://github.com/ArchSoftware).
 - 🎓 Currently busy with bachelor's degree
