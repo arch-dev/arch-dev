@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sebastiano, a 23y student keen on Android development and engineering topics
+I'm Sebastiano, a 24y student keen on Android development and engineering topics
 
 - 🔭 Learning Jetpack Compose.
 - 🚀 Attending MSc Degree in Aerospace Engineering at University of Padua
