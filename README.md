@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Sebastiano, a 24y student keen on Android development and engineering topics
+I'm Sebastiano, a 25y student keen on Android development and engineering topics
 
-- 🔭 Learning Jetpack Compose.
+- 🔭 Learning Julia [@JuliaLang](https://github.com/JuliaLang)
 - 🚀 Attending MSc Degree in Aerospace Engineering at University of Padua
 - ✈️ I'm currently developing a CFD engine for Android for [@ArchSoftware](https://github.com/ArchSoftware).
 
