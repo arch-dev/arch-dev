@@ -5,4 +5,6 @@ I'm Sebastiano, a MSc Graduate in Aerospace Engineering at University of Padua, 
 - 🔭 Learning Julia [@JuliaLang](https://github.com/JuliaLang)
 - ✈️ I'm currently developing a CFD engine for Android for [@ArchSoftware](https://github.com/ArchSoftware).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-dev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
